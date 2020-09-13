@@ -7,7 +7,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/nicholasstgermain/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/gmail-nick%40cajun.pro-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /><img src="https://img.shields.io/badge/discord-DirtyCajunRice%230001-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/gmail-nick%40cajun.pro-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"><img src="https://img.shields.io/badge/discord-DirtyCajunRice%230001-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 <h3>Stats</h3>
 <img src="https://badges.pufler.dev/years/DirtyCajunRice?style=for-the-badge&label=Github Years&color=white" />
 <img src="https://badges.pufler.dev/visits/DirtyCajunRice/DirtyCajunRice?style=for-the-badge&color=white" />
