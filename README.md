@@ -20,6 +20,6 @@
 [discord-badge]: https://img.shields.io/badge/discord-DirtyCajunRice%230001-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white
 [gh-years-badge]: https://badges.pufler.dev/years/DirtyCajunRice?style=for-the-badge&label=Github%20Years&color=white
 [gh-visits-badge]: https://badges.pufler.dev/visits/DirtyCajunRice/DirtyCajunRice?style=for-the-badge&color=white
-[gh-stats-section]: https://github-readme-stats.vercel.app/api?username=DirtyCajunRice&count_private=true&show_icons=true&theme=dracula&hide_title=true
+[gh-stats-section]: https://github-readme-stats.vercel.app/api?username=DirtyCajunRice&count_private=true&show_icons=true&theme=dracula&hide_title=true&include_all_commits=true
 [gh-languages-section]: https://github-readme-stats.vercel.app/api/top-langs/?username=dirtycajunrice&layout=compact&hide=smarty,dockerfile&theme=dracula&hide_title=true&card_width=230
 [profile]: https://github.com/DirtyCajunRice
