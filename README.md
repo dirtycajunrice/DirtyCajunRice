@@ -1,6 +1,6 @@
 # Nicholas St. Germain
 
-*DevOps Engineer at [Electronic Arts][ea]*
+*Lead Solidity/Web3 Developer for [Cosmic Universe][cu] & [EvoVerses][evo]*
 
 🔃 Attempting to 📈 enhance 💾 OSS one 🗃️ repository at a time 🕘
 
@@ -12,7 +12,8 @@
 
 [![Github Stats][gh-stats-section]][profile] [![Github Languages][gh-languages-section]][profile]
 
-[ea]: https://www.ea.com/
+[evo]: https://evoverses.com/
+[cu]: https://cosmicuniverse.one/
 [linkedin]: https://www.linkedin.com/in/nicholasstgermain/
 [linkedin-badge]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 
 [gmail]: mailto:nick@cajun.pro
